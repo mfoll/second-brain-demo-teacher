@@ -1,0 +1,24 @@
+---
+type: Topic
+related_to:
+  - "[[local-oral-history]]"
+  - "[[local-history-enquiry]]"
+_organized: true
+---
+
+# Local History
+
+Retrieval surface for Corrandale's own past and how it reaches pupils and the town: the ropeworks, the society, the archive and the Courier's back issues.
+
+## Entry points
+
+- The works itself: [[corrandale-ropeworks]].
+- The society's interview project: [[ropeworks-voices]], with its consent forms [[ropeworks-consent-form-v2]] and the superseded [[ropeworks-consent-form-2019]].
+- School use: [[local-history-enquiry]] (Year 9, first taught spring 2027) and the clip shortlist in [[clip-selection-for-year-9-enquiry]].
+- The archive's holdings: [[corrandale-archives-ropeworks-catalogue]].
+- Courier coverage of the closure: [[courier-ropeworks-closure-1986]].
+
+## Notes
+
+- Local history works in class when pupils can hear a voice from their own streets. It fails when it becomes a list of dates about a building they have never been in.
+- Public memory of the closure is still raw in parts of the town. See [[public-memory-and-heritage]] for the wider reading.

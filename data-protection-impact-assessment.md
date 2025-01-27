@@ -1,0 +1,14 @@
+---
+type: Concept
+belongs_to: "[[ai-in-education]]"
+related_to:
+  - "[[paul-ingram]]"
+  - "[[can-we-use-ai-to-draft-feedback-on-mock-essays]]"
+_organized: true
+---
+
+# Data Protection Impact Assessment
+
+A documented assessment, required before starting processing that is likely to be high-risk for the people whose data it is, of what data is used, why, where it goes, how long it is kept and what could go wrong. At Wyvernmoor the trust DPO runs them for all seven schools.
+
+Why it matters to me: any AI tool that would read pupil essays needs one, and the trust's DPIA on AI tools is not finished (expected December 2026). Until then, [[dpo-ai-tools-decision-2026-09-30|Paul Ingram's ruling]] stands. A DPIA covers a tool and a purpose, so even after approval, using an approved tool for a different purpose (marking rather than planning, say) may need a new one. Worth asking rather than assuming.

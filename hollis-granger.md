@@ -1,0 +1,23 @@
+---
+type: Person
+related_to:
+  - "[[public-memory-and-heritage]]"
+  - "[[ropeworks-voices]]"
+  - "[[local-history-enquiry]]"
+_organized: true
+---
+
+# Hollis Granger
+
+Lecturer in public history at Esterbrook University. Works on oral history methods and community heritage projects. Not connected to my teacher training there; we met through the society.
+
+## Touchpoints
+
+- Ran the seminar on oral history in schools that I went to on 18 March 2026 ([[esterbrook-public-history-seminar-2026-03-18]]), and shared slides afterwards ([[granger-oral-history-in-the-classroom-slides]]).
+- Advised the society on the separate archive, web and education options in version 2 of the consent form ([[ropeworks-consent-form-v2]]).
+- Her line that stuck with me: pupils should hear the interviewer's questions as well as the answers, so they can judge how the testimony was produced. Built into the Year 9 enquiry ([[local-history-enquiry]]).
+
+## Current threads
+
+- She would like a student placement with the society in 2027. Passed to [[maureen-castleford]].
+- Reading suggestions feed [[public-memory-and-heritage]].
