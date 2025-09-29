@@ -1,0 +1,41 @@
+---
+type: Source
+source_type: Internal system
+date_accessed: 2025-09-08
+belongs_to: "[[lead-year-10]]"
+related_to:
+  - "[[lanternlog]]"
+  - "[[school-attendance]]"
+  - "[[marek-nowicki]]"
+_organized: true
+---
+
+# Ledgerwise
+
+Ledgerwise is Corrandale School's management information system: registers, attendance codes, behaviour points, timetables, assessment data drops, parent contact details and the parents' evening booking module. This note records what I use it for and the rule that pupil-level data stays there.
+
+## Summary
+
+Every lesson register, every absence code and every behaviour point lands in Ledgerwise. It also sends texts and emails to families, which is how the [[year-10-newsletter]] goes out and how parents' evening appointments are booked. Access is role-based: as head of Year 10 I see attendance, behaviour, contact details and assessment data for Year 10 pupils.
+
+## Why It Matters
+
+Almost every figure in the Year 10 notes of this vault comes from a Ledgerwise extract: the [[year-10-attendance-dashboard]], the [[trip-places-equity-analysis]], the parents' evening booking rates in [[parents-evening-trial-findings]]. The vault keeps only the aggregates. Names, marks of individual pupils, registers and contact details never leave Ledgerwise, and huddle actions are entered there during the meeting ([[run-the-weekly-attendance-huddle]]).
+
+## Key Details
+
+- **Attendance.** Registers close at 09:00 (morning) and 13:50 (afternoon). Unexplained absences are flagged by 09:15 for first-day calls ([[first-day-response]]). [[marek-nowicki]] owns codes and corrections.
+- **Extracts.** Attendance by pupil, group and week; Marek's rolling four-week report since September 2026.
+- **Consent fields.** Photo consent, trip consent, translation needs. Checked on the day of use ([[how-should-the-newsletter-handle-pupil-photos]]).
+- **Messaging.** Email and text to contacts with parental responsibility. Open rates visible for email.
+- **Parents' evening module.** Video appointments with automatic links; used since November 2025.
+- **Not in Ledgerwise.** Safeguarding concerns, which go only to [[lanternlog]]; trip medical forms, which go to [[tripplan]]; homework and quizzes, which are on [[quillyard]].
+
+## Caveats
+
+- Year-to-date figures early in the year are volatile; prefer rolling figures for early warning.
+- Codes are sometimes corrected weeks later. Any figure in this vault is as extracted on the date given.
+
+## Source Location
+
+- Ledgerwise web and desktop client, school single sign-on.
