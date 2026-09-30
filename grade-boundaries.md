@@ -1,0 +1,14 @@
+---
+type: Concept
+belongs_to: "[[year-11-exam-preparation]]"
+related_to:
+  - "[[merrow-history-specification]]"
+  - "[[grading-in-education]]"
+_organized: true
+---
+
+# Grade Boundaries
+
+The raw marks needed for each grade in a given exam series, set by the board after marking, so that grades mean roughly the same each year even when papers vary in difficulty.
+
+For mocks we have to borrow a past series' boundaries. That adds error: the Merrow grade 4 boundary was 71 of 168 in 2025 and 74 in 2026. A pupil on 72 would have been a 4 one year and a 3 the next. This is one reason I report mock outcomes as ranges ([[mock-grades-should-be-reported-as-ranges]]) and use the most recent boundaries without adjustment.
