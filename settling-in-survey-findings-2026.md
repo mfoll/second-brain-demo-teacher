@@ -1,0 +1,36 @@
+---
+type: Note
+date: 2026-10-02
+belongs_to: "[[year-10-transition-2026]]"
+related_to:
+  - "[[settling-in-survey-2026]]"
+  - "[[li-2026-teacher-relationships-and-school-belonging]]"
+  - "[[should-year-10-tutor-groups-be-reshuffled]]"
+_organized: true
+---
+
+# Settling-In Survey Findings 2026
+
+Analysis of the Year 10 settling-in survey, completed on 2 October 2026 and shared with the tutor team on 5 October. Instrument: [[settling-in-survey-2026]].
+
+## Response
+
+191 of 212 pupils (90%), in tutor time between 21 and 28 September. Anonymous; tutor group recorded so tutors could see their own group's results.
+
+## Headlines
+
+- 84% know which adult to go to if something is wrong. Lowest group 71%, highest 95%.
+- 76% feel they belong in their tutor group; 62% in their option classes.
+- 27% are worried about the amount of work in Year 10; 18% about friends being in different option classes; 11% about the new tutor.
+- 69% say they like their new tutor already; 24% "not sure yet".
+- Free text (themes only): homework deadlines bunching on Thursdays; wanting to know more about the residential; the lunch queue.
+
+## What We Are Doing
+
+- Tutors of the two lowest groups on "know which adult" ran a "who to go to" session in the week of 5 October.
+- Homework bunching raised with heads of department through [[adeel-chaudhry]].
+- Residential details brought forward in the Autumn 1 newsletter ([[year-10-newsletter-autumn-1-2026]]).
+
+## Caveats
+
+Taken in tutor time with the tutor in the room, three weeks into term. Belonging scores are likely to be optimistic. February repeat planned. The link between teacher relationships and belonging in the research ([[li-2026-teacher-relationships-and-school-belonging]]) is correlational and from a very different system.

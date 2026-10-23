@@ -1,0 +1,9 @@
+---
+type: Note
+date: 2026-10-22
+_organized: false
+---
+
+# Tarnholm coach quote call back
+
+Coach company rang back during period 4, left a message: 2027 price for the two-driver coach is "about 4,250", firm quote by email next week. That is higher than the 82 GBP per pupil I put in the provisional sum (4,100 for 50). Check whether the second driver's overnight is inside it this time. Tell Olumide before the Friends meeting on 10 Nov.
