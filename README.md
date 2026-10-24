@@ -12,6 +12,8 @@ A demo Second Brain: about 500 linked Markdown notes holding the working memory 
 
 ![Marchbank Teaching Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/marchbank-teaching-brain-graph.png)
 
+**[Explore this vault in the live demo](https://mfoll.github.io/brain-graph-demo/?vault=marchbank-teaching-brain)**: its map in Brain Graph, in your browser, with nothing to install.
+
 > [!warning]
 > Everything about the school is fictional: Corrandale School, the Wyvernmoor Learning Trust, the Merrow Examinations Board, the town, the ropeworks, every person, class, trip and result. Any resemblance to real people or organisations is accidental. Only the Sources marked as Wikipedia articles, scientific papers or web pages are real.
 
