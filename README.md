@@ -8,7 +8,7 @@ surface_for:
 
 # Marchbank Teaching Brain
 
-A demo Second Brain: about 500 linked Markdown notes holding the working memory of a fictional secondary-school history teacher who is also head of Year 10. Clone it, open the folder, and explore what a vault looks like after two years of daily use: classes, a curriculum change, pastoral work, a residential trip, a trainee, meetings, people, reading, open questions, and the links between them.
+A demo Second Brain: about 530 linked Markdown notes holding the working memory of a fictional secondary-school history teacher who is also head of Year 10. Clone it, open the folder, and explore what a vault looks like after two years of daily use: classes, a curriculum change, pastoral work, a residential trip, a trainee, meetings, people, reading, open questions, and the links between them.
 
 ![Marchbank Teaching Brain in Brain Graph, coloured by the Project or Responsibility each note rolls up to](assets/marchbank-teaching-brain-graph.png)
 
@@ -27,11 +27,11 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
 | Memory | About 180 Sources, 50 Events, 35 Questions, 30 Concepts, 15 Opinions, 16 Recaps, 40 people. |
 | Real material | About 60 Sources are real Wikipedia articles and open-access papers on teaching, assessment, attendance and the history taught, summarised in our own words. Their "Why It Matters" sections describe how the fictional teacher uses them. |
 | Operations | `AGENTS.md`, Type notes, Procedures, Skills and ADRs from the template, unchanged except for the deployment steps. |
-| History | Git history from January 2025 to October 2026, one commit per month of captures. |
+| History | Git history from January 2025 to October 2026, one commit for each month that had captures. |
 
 ## Open it
 
-- **Any Markdown editor.** Clone the repository and open the folder. Start from [[vault]].
+- **Any Markdown editor.** Clone the repository and open the folder; notes sit flat at the root by design. Start from [vault](vault.md).
 - **[Tolaria](https://tolaria.md/).** Open the folder as a vault for typed sidebars, relationship panels and saved views.
 - **[Brain Graph](https://github.com/mfoll/brain-graph).** See the whole vault as a map coloured by project:
 
@@ -39,7 +39,7 @@ The vault was deployed from the [Second Brain template](https://github.com/mfoll
   npx github:mfoll/brain-graph path/to/second-brain-demo-teacher
   ```
 
-- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [[AGENTS]] (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
+- **A coding agent.** Run Claude Code, Codex or Gemini CLI in the folder. They read [AGENTS](AGENTS.md) (through `CLAUDE.md` and `GEMINI.md` where needed) and follow the vault's Procedures.
 
 ## Try this
 
@@ -47,19 +47,19 @@ Each question has a known answer in the vault, so you can check what an agent fi
 
 | Ask | Where the answer lives |
 | --- | --- |
-| Which Year 10 classes are studying migration instead of medicine this year? | A department vote on 2026-02-04 switched every class; a meeting on 2026-05-13 cut it back to a pilot. See [[thematic-study-switch]] and the daily Recap of 2026-05-13. |
-| Did attendance decide who went on the Tarnholm trip? | A threshold was proposed and then dropped after an equity analysis. See [[tarnholm-residential-2026]] and [[trip-places-equity-analysis]]. |
-| Why do we double-mark a sample of mock papers? | A moderation meeting found the department marking generously. See [[department-moderation-protocol]] and [[mock-moderation-2025-12-10]]. |
-| Which ropeworks interviews can we use in Year 9 lessons? | It depends on which consent form each interviewee signed. See [[ropeworks-voices]] and [[ropeworks-consent-form-v2]]. |
-| Can we use AI to mark the November mocks? | Still open, waiting on the trust's data protection review. See [[can-we-use-ai-to-draft-feedback-on-mock-essays]]. |
-| Why does every Key Stage 3 year start with timeline lessons? | A compromise with a colleague who still disagrees. See [[ks3-curriculum-review-2025-06-25]]. |
+| Which Year 10 classes are studying migration instead of medicine this year? | A department vote on 2026-02-04 switched every class; a meeting on 2026-05-13 cut it back to a pilot. See [thematic-study-switch](thematic-study-switch.md) and the daily Recap of 2026-05-13. |
+| Did attendance decide who went on the Tarnholm trip? | A threshold was proposed and then dropped after an equity analysis. See [tarnholm-residential-2026](tarnholm-residential-2026.md) and [trip-places-equity-analysis](trip-places-equity-analysis.md). |
+| Why do we double-mark a sample of mock papers? | A moderation meeting found the department marking generously. See [department-moderation-protocol](department-moderation-protocol.md) and [mock-moderation-2025-12-10](mock-moderation-2025-12-10.md). |
+| Which ropeworks interviews can we use in Year 9 lessons? | It depends on which consent form each interviewee signed. See [ropeworks-voices](ropeworks-voices.md) and [ropeworks-consent-form-v2](ropeworks-consent-form-v2.md). |
+| Can we use AI to mark the November mocks? | Still open, waiting on the trust's data protection review. See [can-we-use-ai-to-draft-feedback-on-mock-essays](can-we-use-ai-to-draft-feedback-on-mock-essays.md). |
+| Why does every Key Stage 3 year start with timeline lessons? | A compromise with a colleague who still disagrees. See [ks3-curriculum-review-2025-06-25](ks3-curriculum-review-2025-06-25.md). |
 
 Workflows to try with an agent:
 
 - **Resume a project:** "Resume the Tarnholm Residential 2027."
 - **Process the Inbox:** about eight raw captures from the last week of October 2026 have `_organized: false`; each has an obvious home.
 - **Ingest a source:** give any Wikipedia article or open-access paper on feedback, attendance or oral history and ask where it belongs.
-- **Lint the vault:** the audits should find one unresolved link, one homeless Concept and one Person reachable only through `has`, all left in on purpose.
+- **Lint the vault:** the audits should report one link to a missing note, one Person reached only through a Project's `has` list and one Concept that belongs to nothing, all left in on purpose. Informational lines, such as external contacts without a parent, are expected.
 
 ## Scope and privacy
 
@@ -67,7 +67,7 @@ The fictional teacher's classes, department work, head-of-year pastoral role, pa
 
 ## Template updates
 
-The vault was deployed from the template on 2026-10-23. Later template improvements can be ported with [[upgrade-existing-vault-from-template|Upgrade an Existing Vault From the Template]], as a reviewed change: an agent proposes each port, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
+The vault was deployed from the template on 2026-10-23. Later template improvements can be brought in with [Upgrade an Existing Vault From the Template](upgrade-existing-vault-from-template.md), as a reviewed change: an agent proposes each change, and a person approves it. Never run it unattended. A vault in use is expected to differ from the template on purpose, in its ADRs, Procedures, Skills and instructions.
 
 ## How it was made
 
@@ -75,7 +75,7 @@ An AI agent drafted the world specification (the school, people, projects, timel
 
 ## Storage and backup
 
-Git history in this repository. A demo that edits notes can be reset with `git checkout .` and `git clean -fd`.
+The notes are plain files, and their history is this Git repository. To undo edits made while trying the demo, run `git checkout .`; `git clean -n` lists any new files, which `git clean -f` would delete.
 
 ## More example vaults
 
